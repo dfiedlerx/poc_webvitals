@@ -3,16 +3,16 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="mt-10 flex min-h-screen flex-col items-center justify-between">
+      <p className="p-24 fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
+        Poc Webvitals
+      </p>
       <div className="w-full m-10">
         <img
           alt="sou uma imagem legal"
           className="w-full"
-          src="https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg"
+          src="https://t3.ftcdn.net/jpg/06/22/33/36/360_F_622333621_KwEUCiaY27QCk5Bi9ujUcQmuTBY5ljt3.jpg"
         />
       </div>
-      <p className="p-24 fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-        Poc Webvitals
-      </p>
       <section className="p-24 items center flex flex-col text-center">
         <h1 className="mb-3 text-2xl font-semibold">Lorem Ipsum</h1>
         <p className="m-0 opacity-50">
