@@ -16,6 +16,7 @@ export default function Home() {
       </section>
       <div className="w-full m-10">
         <img
+          alt="sou uma imagem legal"
           className="w-full"
           src="https://t4.ftcdn.net/jpg/04/61/47/03/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg"
         />
@@ -37,6 +38,7 @@ export default function Home() {
       </section>
       <div className="w-full m-10">
         <img
+          alt="sou uma imagem legal"
           className="w-full"
           src="https://t4.ftcdn.net/jpg/05/71/83/47/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg"
         />
@@ -88,6 +90,7 @@ export default function Home() {
 
       <div className="w-full m-10">
         <img
+          alt="sou uma imagem legal"
           className="w-full"
           src="https://i.pinimg.com/474x/d1/43/cb/d143cb1008f0550e7a02d4b73bf33aac.jpg"
         />
